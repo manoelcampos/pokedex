@@ -7,7 +7,7 @@ utilizando JavaScript puro com Promises.
 A interface da aplicação é como a figura abaixo. Pode-se apenas dar dois cliques no arquivo index.html para abrir, ou utilizar o plugin https://github.com/ritwickdey/vscode-live-server[Live Server] do Visual Studio Code.
 
 .Screenshot do index.html
-image::screenshot.png[]
+image::screenshot.png[link=http://manoelcampos.com/pokedex/]
 
 == Live Demo
 
