@@ -8,3 +8,7 @@ A interface da aplicação é como a figura abaixo. Pode-se apenas dar dois cliq
 
 .Screenshot do index.html
 image::screenshot.png[]
+
+== Live Demo
+
+Acesse a aplicação http://manoelcampos.com/pokedex/[online aqui].
